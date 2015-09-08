@@ -10,3 +10,7 @@ The Cgi then uses the query string to return the values that the user put into t
 The link to the html page is http://www.csun.edu/~jm12232/cgi_bin/new.html
 
 I stored the new.cgi and new.html in my cgi_bin folder so it should work
+
+I'm having problems getting the query string variables to show. When it calls the cgi screen it just shows a blank screen instead of the variables
+
+
